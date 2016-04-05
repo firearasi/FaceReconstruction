@@ -1,0 +1,18 @@
+newmtl phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.27 0.27 0.27
+Tf 1.00 1.00 1.00
+map_Kd Face7_4.jpg
+Ni 1.00
+Ks 0.17 0.17 0.17
+Ns 98.00
+newmtl phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.26 0.26 0.26
+Tf 1.00 1.00 1.00
+map_Kd Eye7.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
